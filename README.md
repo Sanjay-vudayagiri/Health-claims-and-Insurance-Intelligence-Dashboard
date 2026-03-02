@@ -1,6 +1,6 @@
 1. Project Title
 
-Health Claims and Insurance Intelligence Dashboard | Power BI Project
+HealthCare Claims and Insurance Intelligence Dashboard | Power BI Project
 
 2. Purpose
 
